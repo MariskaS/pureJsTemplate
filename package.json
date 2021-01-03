@@ -1,0 +1,28 @@
+{
+  "name": "purejstemplate",
+  "version": "1.0.0",
+  "description": "Pure Js App template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack",
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MariskaS/pureJsTemplate.git"
+  },
+  "keywords": [
+    "js"
+  ],
+  "author": "Marina Ismailova <yourEmail@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MariskaS/pureJsTemplate/issues"
+  },
+  "homepage": "https://github.com/MariskaS/pureJsTemplate#readme",
+  "devDependencies": {
+    "webpack": "^5.11.1",
+    "webpack-cli": "^4.3.1"
+  }
+}
